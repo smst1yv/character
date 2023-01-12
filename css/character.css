@@ -1,0 +1,236 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Open Sans", sans-serif;
+    
+}
+body{
+    background-color: #333333;
+}
+.item-one{
+    background-color: white;
+    width: 45%;
+    height: 650px;
+    margin-left: 60px;
+    margin-top: 70px;
+    font-family: "Open Sans", sans-serif;
+}
+.item-one h3{
+    text-align: left;
+    color: #666666;
+    padding: 140px 95px 0;
+    line-height: 2;
+    font-size: 20px;
+}
+.item-one .header{
+    margin-left: -50px;
+    position: relative;
+    margin-top: 147px;
+    margin-bottom: 27px;
+    margin: 100px 1px;
+}
+.item-one .header .character{
+    padding: 70px 48px;
+    background-color: #996666;
+    color: #ffffff;
+    position: relative;
+    right: 50px;
+    padding: 70px 48px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+}
+.item-one .header .character .fa-braille{
+    font-weight: 900;
+    font-family: "Font Awesome 5 Free";
+    font-size: 3em;
+    -webkit-font-smoothing: antialiased;
+    display: inline-block;
+    font-style: normal;
+    font-variant: normal;
+    text-rendering: auto;
+    line-height: 1;
+}
+.item-one .header .character h1{
+    margin: 0 40px 0;
+    font-size: 2.5rem;
+    font-weight: 400;
+}
+.head .img-item-one{
+   margin-top: 90px;
+   margin-left: 20px
+}
+.img-item-two{
+    margin-top: -250px;
+    margin-left: 87px;
+}
+.img-item-two .proin{
+    margin-top: 260px;
+    background-color: #cc9999;
+    color: #ffffff;
+    padding: 67px 63px;
+    width: 490px;
+    margin-left: 20px;
+    height: 370px;
+}
+.img-item-two .proin header{
+    font-family: "Open Sans", sans-serif;
+    font-size: 20px;
+}
+.img-item-two .proin h2{
+    text-transform: uppercase;
+}
+.img-item-two .proin p{
+    line-height: 2;
+    margin: 0;
+    font-size: 20px;
+    margin-top: 20px;
+}
+.img-item-two .proin p a{
+    color: #FF0;
+    text-decoration: none;
+}
+.img-item-two .proin .item-p{
+    margin-bottom: 20px;
+    margin-top: 30px;
+    line-height: 2;
+    font-size: 20px;
+}
+.sertfcat{
+    background-color: #9999cc;
+    width: 500px;
+    height: 350px;
+    padding: 67px 63px;
+    margin-left: 20px;
+    margin-top: 20px;
+    position: relative;
+}
+.sertfcat p{
+    color: white;
+    line-height: 2;
+    font-size: 20px;
+    margin-top: 40px;
+}
+.tm-block-icon {
+    margin-left: 250px;
+    color: white;
+    font-weight: 900;
+    font-size: 4em;
+}
+.sertfcat .button-item-one{
+    text-align: center;
+    margin-top: 40px;
+}
+.sertfcat .button-item-one .readmore{
+    margin-top:px;
+    color: #9999cc;
+    background-color: #ffffff;
+    font-size: 17px;
+    font-weight: 600;
+    padding: 15px 35px;
+    text-decoration: none;
+    margin-left: 340px;
+    transition: all 0.3s ease;
+    cursor: pointer;
+}
+.sertfcat .button-item-one .readmore:hover{
+    background-color: #c5c5e6;
+}
+.img-item-tree img{
+    margin-top: -15px;
+    margin-left: 87px;
+}
+.sertfcat .img-item-four{
+    margin-left: 604px;
+    margin-top: -530px;
+}
+.contact{
+    background-color: #ffffff;
+    position: relative;
+    box-sizing: border-box;
+    width: 600px;
+    font-size: 20px;
+    margin-left: 687px;
+    margin-top: -610px;
+    height: 850px;
+    padding: 67px 63px;
+}
+.contact .contact-h{
+    text-transform: uppercase;
+    margin-bottom: 45px;
+    color: #999999;
+}
+.contact .contact-form .form input{
+    width: 90%;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    border: 1px solid #958ec0;
+    padding: 18px 20px;
+    font-size: 1em;
+}
+.contact .contact-form .form .form-message{
+    height: 120px;
+    width: 400px;
+    border: 1px solid #958ec0;
+    font-size: 1em;
+    padding: 18px 20px;
+}
+.contact .contact-form .form{
+    padding: 15px 20px;
+}
+.contact .contact-button .submit-button{
+    font-size: 1em;
+    background-color: #9999cc;
+    color: white;
+    border: none;
+    padding: 17px 45px;
+    margin-left: 280px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+.contact .contact-button .submit-button:hover{
+    background-color:  #5b5bb2;;
+}
+.info{
+     background-color: #9999cc;
+     width: 600px;
+     margin-left: -30px;
+     margin-top: 40px;
+     position: relative;
+     box-sizing: border-box;
+     padding: 55px 47px;
+     height: 240px;
+}
+.info header h2{
+    color: white;
+    margin-top: -15px;
+}
+.info p{
+    line-height: 2;
+    margin-top: 15px;
+    color: white;
+    font-size: 1em;
+}
+.crcode img {
+    width: 150px;
+    height: 150px;
+    margin-top: -200px;
+    margin-bottom: 190px;
+    margin-left: 89px;
+}
+.crcode .crcode-p{
+    margin-left: 260px;
+    margin-top: -300px;
+}
+.crcode .crcode-p p a{
+    color:#cbcbcb;
+}
+.crcode .crcode-p p{
+    color: #cbcbcb;
+}
+.crcode .crcode-p p a:hover{
+    color: #996666 !important;
+}
